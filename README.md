@@ -15,7 +15,7 @@
 - 🌐 &nbsp;
   HTML5 | CSS3 | NodeJS | React | Nextjs
 - 🛢 &nbsp;
-  MySQL | PostgreSQL | MongoDB
+  MySQL | PostgreSQL
 - ⚙️ &nbsp;
   Git | Github
 - 🔧 &nbsp;
