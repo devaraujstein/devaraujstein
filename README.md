@@ -15,7 +15,7 @@
 - 🌐 &nbsp;
   Node.js | Express.js | Nest.js | Angular |
 - 🛢 &nbsp;
-  SQL | MySQL | PostgreSQL |
+   SQL | MySQL | PostgreSQL |
 - ⚙️ &nbsp;
   AWS | TDD | Serverless | Git | Github | Bitbucket |
 - 🔧 &nbsp;
