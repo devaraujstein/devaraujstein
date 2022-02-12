@@ -2,22 +2,22 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new back-end technologies (nodejs) and learning nextjs, etc.
-- 🎓 &nbsp; Recently graduated in Computer Science at University Center of Formiga.
-- 💼 &nbsp; Studying to professionalize as a software enginner.
-- 🌱 &nbsp; Learning more about Test Driven Development, Microservices, UI Patterns and much more.
+- 🤔 &nbsp; Exploring back-end technologies, etc...
+- 🎓 &nbsp; Graduated in Computer Science at University Center of Formiga.
+- 💼 &nbsp; Software Developer.
+- 🌱 &nbsp; Learning more about Test Driven Development, but i want to learn about microservices too and much more.
 - ✍️ &nbsp; Play games and learn others languages as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  Python | Java | Javascript | Typescript
+  | Javascript | Typescript | Java |
 - 🌐 &nbsp;
-  HTML5 | CSS3 | NodeJS | React | Nextjs
+  | NodeJS | Express.js | Nest.js |
 - 🛢 &nbsp;
-  MySQL | PostgreSQL | MongoDB
+  | SQL | MySQL | PostgreSQL |
 - ⚙️ &nbsp;
-  Git | Github
+  Git | Github | Bitbucket
 - 🔧 &nbsp;
   Visual Studio Code
 - 🖥 &nbsp;
