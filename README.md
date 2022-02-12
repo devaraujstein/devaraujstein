@@ -11,17 +11,17 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  Javascript | Typescript | Java
+  Javascript | Typescript | Java |
 - 🌐 &nbsp;
-  Node.js | Express.js | Nest.js | Angular
+  Node.js | Express.js | Nest.js | Angular |
 - 🛢 &nbsp;
-  SQL | MySQL | PostgreSQL
+  SQL | MySQL | PostgreSQL |
 - ⚙️ &nbsp;
-  AWS | TDD | Serverless | Git | Github | Bitbucket
+  AWS | TDD | Serverless | Git | Github | Bitbucket |
 - 🔧 &nbsp;
-  Linux | Visual Studio Code 
+  Linux | Visual Studio Code |
 - 🖥 &nbsp;
-  Kanban
+  Kanban |
 <br/>
 
 <a href="https://github.com/devaraujstein">
