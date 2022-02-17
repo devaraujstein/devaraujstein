@@ -13,7 +13,7 @@
 - 💻 &nbsp;
   Javascript | Typescript | Java |
 - 🌐 &nbsp;
-  Node.js | Express.js | Nest.js | Angular |
+  Node.js | Express.js | Nest.js | Angular | Docker
 - 🛢 &nbsp;
    SQL | MySQL | PostgreSQL |
 - ⚙️ &nbsp;
@@ -21,7 +21,7 @@
 - 🔧 &nbsp;
   Linux | Visual Studio Code |
 - 🖥 &nbsp;
-  Kanban |
+  Kanban | Clean Code
 <br/>
 
 <a href="https://github.com/devaraujstein">
