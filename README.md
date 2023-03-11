@@ -16,6 +16,8 @@
 
 - <b> I am excited to be a part of the dynamic and ever-evolving field of software development, and look forward to connecting with like-minded professionals in the industry. </b> 
 
+---
+
 <h2><b> Tech Stack </b></h2>
 
 <h3><b> Programming Languages </b></h3>
@@ -106,6 +108,8 @@
 </p>
 
 </br></br>
+
+---
 
 <h2><b> Connect with Me </b></h2>
 
