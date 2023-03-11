@@ -116,10 +116,10 @@
 </br>
 
 <p align='left'>
-  <a href="https://andrearaujo.vercel.app/" style="margin-right: 200px;">
+  <a href="https://andrearaujo.vercel.app/">
     <img alt="Website" src="https://img.shields.io/badge/Website-andrearaujo.vercel.app-blue?style=flat-square&logo=google-chrome">
   </a>
-  <a href="https://www.linkedin.com/in/andrearaujolinkd/" style="margin-right: 200px;">
+  <a href="https://www.linkedin.com/in/andrearaujolinkd/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-André%20Araujo-blue?style=flat-square&logo=linkedin">
   </a>
   <a href="mailto:andrearaujo.contact@gmail.com">
