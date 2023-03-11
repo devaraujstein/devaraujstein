@@ -6,8 +6,6 @@
 
 <h2><b> About me </b></h2>
 
---- 
-
 - <b> I am a software developer with a passion for creating and designing innovative solutions. </b> 
 
 - <b> I specialize in developing and maintaining software systems, from the initial planning stages to the final implementation. </b> 
@@ -18,11 +16,7 @@
 
 - <b> I am excited to be a part of the dynamic and ever-evolving field of software development, and look forward to connecting with like-minded professionals in the industry. </b> 
 
----
-
 <h2><b> Tech Stack </b></h2>
-
----
 
 <h3><b> Programming Languages </b></h3>
 
@@ -113,11 +107,7 @@
 
 </br></br>
 
----
-
 <h2><b> Connect with Me </b></h2>
-
----
 
 </br>
 
