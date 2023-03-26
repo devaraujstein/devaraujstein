@@ -35,7 +35,7 @@
 </br>
 
 <p>
-  <img align="left" src="https://skillicons.dev/icons?i=nestjs,express,react">
+  <img align="left" src="https://skillicons.dev/icons?i=nestjs,express">
   </br>
 </p>
 
