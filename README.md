@@ -25,7 +25,7 @@
 </br>
 
 <p>
-  <img align="left" src="https://skillicons.dev/icons?i=js,ts,go,py,cpp">
+  <img align="left" src="https://skillicons.dev/icons?i=js,ts,go,cpp">
 </p>
 
 </br></br>
