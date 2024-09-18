@@ -103,7 +103,7 @@
 </br>
 
 <p>
-  <img align="left" src="https://skillicons.dev/icons?i=git,github">
+  <img align="left" src="https://skillicons.dev/icons?i=git">
   </br>
 </p>
 
